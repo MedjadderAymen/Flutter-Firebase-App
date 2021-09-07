@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "461749583296",
+    "project_id": "braw-crew",
+    "storage_bucket": "braw-crew.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:461749583296:android:917afad5c4e707b901dc25",
+        "android_client_info": {
+          "package_name": "com.medjadder.brew_crew"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "461749583296-kgr7alhccjpdlurega2lk8eguaijf3fq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoy0DhrrDWFZ59Aqu64YiAwRRTLQIwAIg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "461749583296-kgr7alhccjpdlurega2lk8eguaijf3fq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
